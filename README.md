@@ -1,4 +1,4 @@
-# adgpt-com
+# AdGPT
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-adgpt-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://adgpt.com/
+AdGPT provides an AI‑powered advertising generation platform that lets marketers create ad copy, videos, user‑generated content and search ads in seconds. The service offers a fast, one‑click solution to produce high‑converting ads, leveraging large language models to craft creative headlines, descriptions and visual assets. Users can access the platform via a web app at app.adgpt.com and integrate via upcoming APIs.
+
+**Areas:** AI · Advertising · Marketing · Generator · SaaS
+
+## AdGPT on APIs.io
+
+Everything profiled for AdGPT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adgpt-com/](https://apis.io/providers/adgpt-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [AdGPT Ad Recreation API](https://apis.io/apis/adgpt-com/adgpt-com-ad-recreation-api/) — The ad-recreation API from AdGPT — 7 operation(s) for ad-recreation.
+- [AdGPT Add Brand API](https://apis.io/apis/adgpt-com/adgpt-com-add-brand-api/) — The add-brand API from AdGPT — 1 operation(s) for add-brand.
+- [AdGPT Brand API](https://apis.io/apis/adgpt-com/adgpt-com-brand-api/) — The brand API from AdGPT — 2 operation(s) for brand.
+- [AdGPT Brands API](https://apis.io/apis/adgpt-com/adgpt-com-brands-api/) — The brands API from AdGPT — 1 operation(s) for brands.
+- [AdGPT Bulk Generations API](https://apis.io/apis/adgpt-com/adgpt-com-bulk-generations-api/) — The Bulk Generations API from AdGPT — 5 operation(s) for bulk generations.
+- [AdGPT Campaigns API](https://apis.io/apis/adgpt-com/adgpt-com-campaigns-api/) — The campaigns API from AdGPT — 1 operation(s) for campaigns.
+- [AdGPT Catalog API](https://apis.io/apis/adgpt-com/adgpt-com-catalog-api/) — The catalog API from AdGPT — 2 operation(s) for catalog.
+- [AdGPT Catalogs API](https://apis.io/apis/adgpt-com/adgpt-com-catalogs-api/) — The catalogs API from AdGPT — 2 operation(s) for catalogs.
+- [AdGPT Chat API](https://apis.io/apis/adgpt-com/adgpt-com-chat-api/) — The chat API from AdGPT — 1 operation(s) for chat.
+- [AdGPT Creative API](https://apis.io/apis/adgpt-com/adgpt-com-creative-api/) — The creative API from AdGPT — 35 operation(s) for creative.
+- [AdGPT Facebook API](https://apis.io/apis/adgpt-com/adgpt-com-facebook-api/) — The facebook API from AdGPT — 1 operation(s) for facebook.
+- [AdGPT Full Campaign API](https://apis.io/apis/adgpt-com/adgpt-com-full-campaign-api/) — The full-campaign API from AdGPT — 5 operation(s) for full-campaign.
+- [AdGPT Pipeline Voices API](https://apis.io/apis/adgpt-com/adgpt-com-pipeline-voices-api/) — The pipeline-voices API from AdGPT — 1 operation(s) for pipeline-voices.
+- [AdGPT Single Asset Campaign API](https://apis.io/apis/adgpt-com/adgpt-com-single-asset-campaign-api/) — The single-asset-campaign API from AdGPT — 21 operation(s) for single-asset-campaign.
+- [AdGPT Social Ads Account API](https://apis.io/apis/adgpt-com/adgpt-com-social-ads-account-api/) — The social-ads-account API from AdGPT — 2 operation(s) for social-ads-account.
+- [AdGPT Taboola API](https://apis.io/apis/adgpt-com/adgpt-com-taboola-api/) — The taboola API from AdGPT — 2 operation(s) for taboola.
+- [AdGPT Tiktok API](https://apis.io/apis/adgpt-com/adgpt-com-tiktok-api/) — The tiktok API from AdGPT — 5 operation(s) for tiktok.
+- [AdGPT Ugc API](https://apis.io/apis/adgpt-com/adgpt-com-ugc-api/) — The ugc API from AdGPT — 2 operation(s) for ugc.
+- [AdGPT User API](https://apis.io/apis/adgpt-com/adgpt-com-user-api/) — The user API from AdGPT — 2 operation(s) for user.
+- [AdGPT User Creative Credits API](https://apis.io/apis/adgpt-com/adgpt-com-user-creative-credits-api/) — The user-creative-credits API from AdGPT — 1 operation(s) for user-creative-credits.
+- [AdGPT User Details API](https://apis.io/apis/adgpt-com/adgpt-com-user-details-api/) — The user-details API from AdGPT — 1 operation(s) for user-details.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Adgpt Com Agentic Access](https://apis.io/agentic-access/adgpt-com/adgpt-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Envelope](https://apis.io/schemas/adgpt-com/adgpt-com-envelope/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Adgpt Com Context](https://apis.io/jsonld/adgpt-com/adgpt-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AdGPT API Rules](https://apis.io/rules/adgpt-com/adgpt-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adgpt Com Authentication](https://apis.io/security/adgpt-com/adgpt-com-authentication/)
+- [Adgpt Com Domain Security](https://apis.io/security/adgpt-com/adgpt-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Adgpt Com Plans Pricing](https://apis.io/plans/adgpt-com/adgpt-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Adgpt Com Rate Limits](https://apis.io/rate-limits/adgpt-com/adgpt-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://adgpt.com/)
+- [Pricing](https://adgpt.com/pricing)
+- [Blog](https://adgpt.com/blogs)
+- [Terms of service](https://adgpt.com/terms-of-services)
+- [Privacy policy](https://adgpt.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 48.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 50.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 44.1** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adgpt-com/](https://apis.io/providers/adgpt-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AdGPT: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adgpt-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
