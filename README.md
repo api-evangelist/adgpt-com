@@ -66,7 +66,7 @@
 
 AdGPT provides an AI‑powered advertising generation platform that lets marketers create ad copy, videos, user‑generated content and search ads in seconds. The service offers a fast, one‑click solution to produce high‑converting ads, leveraging large language models to craft creative headlines, descriptions and visual assets. Users can access the platform via a web app at app.adgpt.com and integrate via upcoming APIs.
 
-**Areas:** AI · Advertising · Marketing · Generator · SaaS
+**Areas:** Artificial Intelligence · Advertising · Marketing · Generator · Software-as-a-Service
 
 ## AdGPT on APIs.io
 
@@ -100,11 +100,17 @@ Everything profiled for AdGPT is published on APIs.io rather than in this reposi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adgpt-com-mcp.yml](https://apis.io/servers/adgpt-com/adgpt-com-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Adgpt Com Agentic Access](https://apis.io/agentic-access/adgpt-com/adgpt-com-agentic-access/)
+- [AdGPT Agentic Access](https://apis.io/agentic-access/adgpt-com/adgpt-com-agentic-access/)
 
 #### JSON Schema (1)
 
@@ -128,20 +134,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adgpt Com Authentication](https://apis.io/security/adgpt-com/adgpt-com-authentication/)
-- [Adgpt Com Domain Security](https://apis.io/security/adgpt-com/adgpt-com-domain-security/)
+- [AdGPT Authentication](https://apis.io/security/adgpt-com/adgpt-com-authentication/)
+- [AdGPT Domain Security](https://apis.io/security/adgpt-com/adgpt-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adgpt Com Plans Pricing](https://apis.io/plans/adgpt-com/adgpt-com-plans-pricing/)
+- [AdGPT Plans Pricing](https://apis.io/plans/adgpt-com/adgpt-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adgpt Com Rate Limits](https://apis.io/rate-limits/adgpt-com/adgpt-com-rate-limits/)
+- [AdGPT Rate Limits](https://apis.io/rate-limits/adgpt-com/adgpt-com-rate-limits/)
 
 ## Where to find this API
 
@@ -155,23 +161,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.6** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 46.8** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
-| Contract quality | 50.9 |
-| Contract governance | 79.1 |
+| Discoverability | 71.7 |
+| Contract quality | 54.0 |
+| Contract governance | 35.6 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 20.7 |
-| Access clarity | 73.2 |
+| Access clarity | 76.6 |
 
-**Agent readiness 44.1** — agent-native
+**Agent readiness 41.9** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
@@ -181,7 +187,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -191,8 +197,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adgpt-com/](https://apis.io/providers/adgpt-com/).
 
